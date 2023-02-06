@@ -1,1 +1,5 @@
 # CARD-GAME
+
+# JAVASCRIPT TUTORIAL
+
+Francesco Lucetti
